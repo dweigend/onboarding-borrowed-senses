@@ -47,16 +47,16 @@ Was hier nicht rein gehoert:
 
 Die wichtigsten Einstiegsdokumente:
 
-- [`AGENTS.md`](/Users/weigend/Documents/GitHub/onboarding-borrowed-senses/AGENTS.md) fuer die wichtigsten Spielregeln
-- [`docs/TODO.md`](/Users/weigend/Documents/GitHub/onboarding-borrowed-senses/docs/TODO.md) fuer Aufgaben und Backlog
-- [`docs/QUESTIONS.md`](/Users/weigend/Documents/GitHub/onboarding-borrowed-senses/docs/QUESTIONS.md) fuer offene Fragen
-- [`docs/GLOSSARY.md`](/Users/weigend/Documents/GitHub/onboarding-borrowed-senses/docs/GLOSSARY.md) fuer Begriffe wie `OpenRouter`, `Git`, `OpenCode` und `Zed`
-- [`docs/TUTORIAL_IDEAS.md`](/Users/weigend/Documents/GitHub/onboarding-borrowed-senses/docs/TUTORIAL_IDEAS.md) fuer Lehr- und Tutorial-Ideen
-- [`docs/tutorials/HOW_TO_ORGANIZE_PROJECTS_WITH_GIT.md`](/Users/weigend/Documents/GitHub/onboarding-borrowed-senses/docs/tutorials/HOW_TO_ORGANIZE_PROJECTS_WITH_GIT.md) fuer den Git-Workflow im Team
-- [`docs/LINKS.md`](/Users/weigend/Documents/GitHub/onboarding-borrowed-senses/docs/LINKS.md) fuer wichtige Projektlinks
-- [`docs/CODE_GUIDELINES.md`](/Users/weigend/Documents/GitHub/onboarding-borrowed-senses/docs/CODE_GUIDELINES.md) fuer Repo-, Git- und Review-Regeln
-- [`docs/DECISIONS.md`](/Users/weigend/Documents/GitHub/onboarding-borrowed-senses/docs/DECISIONS.md) fuer Entscheidungen
-- [`docs/templates/`](/Users/weigend/Documents/GitHub/onboarding-borrowed-senses/docs/templates/TASK_TEMPLATE.md) fuer lokale Vorlagen im geklonten Repo
+- [`AGENTS.md`](AGENTS.md) fuer die wichtigsten Spielregeln
+- [`docs/TODO.md`](docs/TODO.md) fuer Aufgaben und Backlog
+- [`docs/QUESTIONS.md`](docs/QUESTIONS.md) fuer offene Fragen
+- [`docs/GLOSSARY.md`](docs/GLOSSARY.md) fuer Begriffe wie `OpenRouter`, `Git`, `OpenCode` und `Zed`
+- [`docs/TUTORIAL_IDEAS.md`](docs/TUTORIAL_IDEAS.md) fuer Lehr- und Tutorial-Ideen
+- [`docs/tutorials/HOW_TO_ORGANIZE_PROJECTS_WITH_GIT.md`](docs/tutorials/HOW_TO_ORGANIZE_PROJECTS_WITH_GIT.md) fuer den Git-Workflow im Team
+- [`docs/LINKS.md`](docs/LINKS.md) fuer wichtige Projektlinks
+- [`docs/CODE_GUIDELINES.md`](docs/CODE_GUIDELINES.md) fuer Repo-, Git- und Review-Regeln
+- [`docs/DECISIONS.md`](docs/DECISIONS.md) fuer Entscheidungen
+- [`docs/templates/`](docs/templates/TASK_TEMPLATE.md) fuer lokale Vorlagen im geklonten Repo
 
 ## Workflow
 
@@ -67,7 +67,7 @@ Die Grundregel: Alles, was Orga-Arbeit erzeugt, bekommt ein GitHub-Issue.
 - Fehler oder Blocker in Prozessen, Doku oder Setup laufen als `Bug`.
 - Aenderungen an Orga-Dokumenten laufen ueber Pull Requests und referenzieren die passenden Issues.
 - Wichtige Architektur- oder Prozessentscheidungen landen zusaetzlich im Decision Log.
-- Offene Fragen werden in [`docs/QUESTIONS.md`](/Users/weigend/Documents/GitHub/onboarding-borrowed-senses/docs/QUESTIONS.md) gesammelt.
+- Offene Fragen werden in [`docs/QUESTIONS.md`](docs/QUESTIONS.md) gesammelt.
 
 ## Working Style
 
@@ -75,7 +75,7 @@ Die Grundregel: Alles, was Orga-Arbeit erzeugt, bekommt ein GitHub-Issue.
 2. Passendes Issue mit Template anlegen.
 3. Prioritaet und naechsten Schritt festhalten.
 4. Umsetzung in kleinem, nachvollziehbarem Pull Request.
-5. Entscheidung oder Erkenntnis bei Bedarf in [`docs/DECISIONS.md`](/Users/weigend/Documents/GitHub/onboarding-borrowed-senses/docs/DECISIONS.md) dokumentieren.
+5. Entscheidung oder Erkenntnis bei Bedarf in [`docs/DECISIONS.md`](docs/DECISIONS.md) dokumentieren.
 
 ## Issue Labels
 
@@ -96,7 +96,7 @@ Fuer GitHub Issues reicht zum Start dieses Set:
 ## Backlog
 
 Der echte Arbeitsstand liegt in GitHub Issues.
-Als schnelle Uebersicht nutzen wir zusaetzlich [`docs/TODO.md`](/Users/weigend/Documents/GitHub/onboarding-borrowed-senses/docs/TODO.md).
+Als schnelle Uebersicht nutzen wir zusaetzlich [`docs/TODO.md`](docs/TODO.md).
 
 Empfohlene Statuslogik:
 
@@ -136,7 +136,7 @@ Im Produkt-Repo liegen bereits Beginner-Tutorials fuer Setup und Einstieg.
 Dieses Orga-Repo ergaenzt sie nur um Organisations-, Team- und Git-Workflows.
 
 - Template-Tutorials: https://github.com/dweigend/neural-flight-template/tree/main/tutorials
-- Git-Teamtutorial: [`docs/tutorials/HOW_TO_ORGANIZE_PROJECTS_WITH_GIT.md`](/Users/weigend/Documents/GitHub/onboarding-borrowed-senses/docs/tutorials/HOW_TO_ORGANIZE_PROJECTS_WITH_GIT.md)
+- Git-Teamtutorial: [`docs/tutorials/HOW_TO_ORGANIZE_PROJECTS_WITH_GIT.md`](docs/tutorials/HOW_TO_ORGANIZE_PROJECTS_WITH_GIT.md)
 
 ## Next Steps
 
@@ -145,7 +145,7 @@ Dieses Orga-Repo ergaenzt sie nur um Organisations-, Team- und Git-Workflows.
 - Tutorial-Liste mit Prioritaeten versehen
 - Link-Sammlung mit den wichtigsten Tools und Repos fuellen
 - Code-Richtlinien auf den Stack im Template-Repo zuschneiden
-- erste 5 bis 10 Organisations-Issues aus [`docs/TODO.md`](/Users/weigend/Documents/GitHub/onboarding-borrowed-senses/docs/TODO.md) erstellen
+- erste 5 bis 10 Organisations-Issues aus [`docs/TODO.md`](docs/TODO.md) erstellen
 
 ## Repository-Struktur
 

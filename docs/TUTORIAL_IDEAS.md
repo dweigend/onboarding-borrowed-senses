@@ -20,7 +20,7 @@ Referenz:
 
 ## Bereits in diesem Repo vorhanden
 
-- [`docs/tutorials/HOW_TO_ORGANIZE_PROJECTS_WITH_GIT.md`](/Users/weigend/Documents/GitHub/onboarding-borrowed-senses/docs/tutorials/HOW_TO_ORGANIZE_PROJECTS_WITH_GIT.md)
+- [`docs/tutorials/HOW_TO_ORGANIZE_PROJECTS_WITH_GIT.md`](tutorials/HOW_TO_ORGANIZE_PROJECTS_WITH_GIT.md)
 
 ## Einstieg
 

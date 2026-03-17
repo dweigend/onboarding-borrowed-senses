@@ -51,7 +51,7 @@ So halten wir es einfach:
 - `pull request`: Vorschlag, deine Aenderung ins Haupt-Repo zu uebernehmen
 - `main`: der Hauptzweig des Repos
 
-Mehr dazu steht auch in [`docs/GLOSSARY.md`](/Users/weigend/Documents/GitHub/onboarding-borrowed-senses/docs/GLOSSARY.md).
+Mehr dazu steht auch in [`docs/GLOSSARY.md`](../GLOSSARY.md).
 
 ## Ein typischer Ablauf
 
@@ -186,19 +186,19 @@ Der Pull Request aktualisiert sich dann automatisch.
 
 1. `main` aktualisieren
 2. neuen Branch anlegen
-3. Eintrag in [`docs/QUESTIONS.md`](/Users/weigend/Documents/GitHub/onboarding-borrowed-senses/docs/QUESTIONS.md) machen
+3. Eintrag in [`docs/QUESTIONS.md`](../QUESTIONS.md) machen
 4. committen
 5. Pull Request erstellen
 
 ### Eine Aufgabe anlegen
 
 1. GitHub Issue mit Template erstellen
-2. optional Eintrag in [`docs/TODO.md`](/Users/weigend/Documents/GitHub/onboarding-borrowed-senses/docs/TODO.md) ergaenzen
+2. optional Eintrag in [`docs/TODO.md`](../TODO.md) ergaenzen
 3. wenn noetig Doku im Repo anpassen
 
 ### Einen Begriff erklaeren
 
-1. Begriff in [`docs/GLOSSARY.md`](/Users/weigend/Documents/GitHub/onboarding-borrowed-senses/docs/GLOSSARY.md) eintragen
+1. Begriff in [`docs/GLOSSARY.md`](../GLOSSARY.md) eintragen
 2. kurz sagen, warum er im Projekt wichtig ist
 3. Pull Request erstellen
 
@@ -215,7 +215,7 @@ Der Pull Request aktualisiert sich dann automatisch.
 Dann bitte nicht raten.
 Mach stattdessen eins von diesen Dingen:
 
-- Frage in [`docs/QUESTIONS.md`](/Users/weigend/Documents/GitHub/onboarding-borrowed-senses/docs/QUESTIONS.md) eintragen
+- Frage in [`docs/QUESTIONS.md`](../QUESTIONS.md) eintragen
 - im Team nachfragen
 - ein kleines Draft-PR anlegen
 - im Issue schreiben, wo du haengst

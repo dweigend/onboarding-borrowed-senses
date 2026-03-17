@@ -32,5 +32,5 @@ Gemeinsame Richtlinien fuer Repo-Arbeit, Git-Workflow, Doku und Zusammenarbeit.
 ## Dokumentation
 
 - Neue Begriffe ins Glossar aufnehmen, wenn sie haeufig im Projekt auftauchen
-- Relevante Links in [`docs/LINKS.md`](/Users/weigend/Documents/GitHub/onboarding-borrowed-senses/docs/LINKS.md) sammeln
-- Tutorial-Ideen in [`docs/TUTORIAL_IDEAS.md`](/Users/weigend/Documents/GitHub/onboarding-borrowed-senses/docs/TUTORIAL_IDEAS.md) pflegen
+- Relevante Links in [`docs/LINKS.md`](LINKS.md) sammeln
+- Tutorial-Ideen in [`docs/TUTORIAL_IDEAS.md`](TUTORIAL_IDEAS.md) pflegen
