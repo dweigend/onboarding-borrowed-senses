@@ -1,0 +1,27 @@
+name: Bug
+description: Problem oder Blocker in Doku, Workflow oder Organisation
+title: "[Bug] "
+labels:
+  - type:bug
+body:
+  - type: textarea
+    id: issue
+    attributes:
+      label: Beschreibung
+      description: Was laeuft schief?
+      placeholder: Kurz und konkret beschreiben.
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Auswirkung
+      description: Was blockiert oder verschlechtert der Fehler?
+      placeholder: Auswirkungen fuer Team, Planung oder Umsetzung.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Kontext
+      description: Relevante Links, Schritte oder Beobachtungen.
